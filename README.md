@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @jawadsiddiqui
-- 💞️ collaborated in 
-- - [Gap Inc](https://www.gapinc.com/en-us/)
+- 💞️ collaborated in e-commerce (back-end services) for
+- [Gap Inc](https://www.gapinc.com/en-us/)
+- Macy's
+- Old Navy 
+- Banana Rebublic
+- Williams Sonoma
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
