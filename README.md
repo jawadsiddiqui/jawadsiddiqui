@@ -3,6 +3,5 @@
 - [Gap Inc](https://www.gapinc.com/en-us/),  [Old Navy](https://oldnavy.gap.com/) , Banana Rebublic
 - [Macy's](https://www.macys.com/)
 - Williams Sonoma
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning ... Java, Python
 - 📫 How to reach me (https://www.linkedin.com/in/asherjawad/)
