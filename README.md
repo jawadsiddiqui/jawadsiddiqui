@@ -7,5 +7,6 @@
 
 📫 How to reach me:
 
-Email: jsiddiqui609@gmail.com
-[LinkedIn](https://www.linkedin.com/in/asherjawad/)
+Email: 
+Email - jsiddiqui609@gmail.com 
+Linked in - [LinkedIn](https://www.linkedin.com/in/jsdqui/)
