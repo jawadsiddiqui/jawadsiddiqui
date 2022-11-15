@@ -1,4 +1,4 @@
-#### Hi there 👋, I’m @jawadsiddiqui
+#### Hi there 👋, I’m Jawad Siddiqui
 
 
 - 💞️ collaborated in e-commerce (back-end services) for Fortune 500 companies
