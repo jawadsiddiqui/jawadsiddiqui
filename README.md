@@ -16,6 +16,5 @@ Area of Expertise 🌱
 
 📫 How to reach me:
 
-Email: 
-Email - jsiddiqui609@gmail.com 
+Email: jsiddiqui609@gmail.com 
 Linked in - [LinkedIn](https://www.linkedin.com/in/jsdqui/)
