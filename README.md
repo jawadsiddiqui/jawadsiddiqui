@@ -2,7 +2,9 @@
 
 
 - 💞️ collaborated in e-commerce (back-end services) for Fortune 500 companies
-- 🌱 I’m currently learning ... Web3.0
+- 🌱 I’m currently learning ... 
+- - (Using Python for Research - Harvard University)
+- - (Machine Learning with Python - freeBootcamp)
 
 
 Area of Expertise 🌱 
