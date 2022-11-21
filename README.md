@@ -1,7 +1,7 @@
 #### Hi there 👋, I’m Jawad Siddiqui
 
 
-- 💞️ collaborated in e-commerce (back-end services) for Fortune 500 companies
+- 💞️ collaborated in e-commerce (back-end microservices and RESTful APIs) for Fortune 500 companies
 - 🌱 I’m currently learning ... 
 - - (Using Python for Research - Harvard University)
 - - (Machine Learning with Python - freeBootcamp)
