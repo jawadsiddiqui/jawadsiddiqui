@@ -17,8 +17,7 @@ Area of Expertise 🌱
 
 Technology Stack 
 
-![Java]([http://url/to/img.png](https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png
-))
+![Java](http://url/to/img.png](https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png)
 
 
 
