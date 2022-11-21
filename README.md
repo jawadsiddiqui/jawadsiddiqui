@@ -1,11 +1,10 @@
-#### Hi there 👋, I’m Jawad Siddiqui
+#### Hi there 👋
 
+💞️ I've collaborated in large scale e-commerce (back-end services) for Fortune 500 companies like William-Sonoma, GAP Inc, and Macy's
 
-- 💞️ I've collaborated in large scale e-commerce (back-end services) for Fortune 500 companies like William-Sonoma, GAP Inc, and Macy's
-- 🌱 I’m currently learning ... 
-- - (Using Python for Research - Harvard University)
-- - (Machine Learning with Python - freeBootcamp)
-
+🌱 I’m currently learning ... 
+- (Using Python for Research - Harvard University)
+- (Machine Learning with Python - freeBootcamp)
 
 Area of Expertise 🌱 
 - Systems Architecture and Operations 
