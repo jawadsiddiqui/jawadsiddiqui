@@ -2,6 +2,11 @@
 
 👯 I've collaborated in large scale e-commerce (back-end services) for Fortune 500 companies like William-Sonoma, GAP Inc, and Macy's
 
+🔭 I’m working on ...
+- Microservices
+- Monolitic Apps
+- Serverless
+
 🔭 I’m currently learning ... 
 - (Using Python for Research - Harvard University)
 - (Machine Learning with Python - freeBootcamp)
