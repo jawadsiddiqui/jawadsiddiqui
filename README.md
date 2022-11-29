@@ -7,10 +7,6 @@
 - Monolitic Apps
 - Serverless
 
-🔭 I’m currently learning ... 
-- (Using Python for Research - Harvard University)
-- (Machine Learning with Python - freeBootcamp)
-
 💞️ Area of Expertise ... 
 - Systems Architecture and Operations 
 - Software and Engineering Documentation
