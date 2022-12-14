@@ -22,4 +22,4 @@
 📫 How to reach me:
 
 - Email: jsiddiqui609@gmail.com 
-- LinkedIn Profile - [[LinkedIn](https://www.linkedin.com/in/jsdqui/)](https://www.linkedin.com/in/jsdqui/)
+- [linkedin.com/in/jsdqui](https://www.linkedin.com/in/jsdqui/)
