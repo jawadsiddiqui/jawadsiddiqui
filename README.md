@@ -21,5 +21,5 @@
 
 📫 How to reach me:
 
-- Email: jsiddiqui609@gmail.com 
+- Email: asher.0484@gmail.com
 - [linkedin.com/in/jsdqui](https://www.linkedin.com/in/jsdqui/)
