@@ -22,4 +22,4 @@
 📫 How to reach me:
 
 - Email: asher.0484@gmail.com
-- [linkedin.com/in/jsdqui](https://www.linkedin.com/in/jsdqui/)
+- [linkedin.com/in/jsiddiqui123](https://www.linkedin.com/in/jsiddiqui123/)
