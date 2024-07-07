@@ -1,9 +1,9 @@
 #### Hi there 👋
 
-👯 I've collaborated in large scale e-commerce (back-end services) for Fortune 500 companies like William-Sonoma, GAP Inc, and Macy's
+👯 I've collaborated in building scalable applications, optimizing performance, and leading high-impact projects for three U.S. Fortune-500 companies like **William-Sonoma, GAP Inc, and Macy's**
 
 🔭 I’m working on ...
-- Microservices
+- Microservices Architecture
 - Monolitic Apps
 - Serverless
 
