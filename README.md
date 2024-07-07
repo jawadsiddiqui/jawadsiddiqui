@@ -8,7 +8,7 @@
 - Monolitic Apps
 - Serverless
 
-💞️ Area of Expertise ... 
+💞️ Skills / Area of Expertise ... 
 - Design principles
 - Application design
 - API Development
