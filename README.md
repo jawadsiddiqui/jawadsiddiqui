@@ -5,8 +5,8 @@
 With 15+ years of experience in backend development, data engineering, and cloud-native systems, I specialize in building scalable solutions using **Go**, **Python**, and **Java** for companies like Rakuten, Williams-Sonoma, and GAP Inc.
 
 ## 🔧 Skills & Expertise
-- **Languages**: Go, Python, Java, .NET (C#)
-- **Frameworks**: Spring Boot, Flask, FastAPI, ASP.NET Core
+- **Languages**: Go, Python, Java
+- **Frameworks**: Spring Boot, Flask, FastAPI
 - **Cloud & DevOps**: AWS, Google Cloud, Docker, Kubernetes, Terraform
 - **Data**: Apache Kafka, Redis, Cassandra, PostgreSQL
 - **Testing**: JUnit, PyTest, Cucumber
