@@ -2,7 +2,7 @@
 
 ### 🚀 Helping Fortune 500 Companies Achieve Scalable Tech Solutions
 
-With 15+ years of experience in backend development, data engineering, and cloud-native systems, I specialize in building scalable solutions using **Java**, **Python**, and **Go** for companies like Rakuten, Williams-Sonoma, and GAP Inc.
+With 15+ years of experience in backend development, data engineering, and cloud-native systems, I specialize in building scalable solutions using **Java**, **Python**, and **Go** for companies like Macy's, Williams-Sonoma, and GAP Inc.
 
 ## 🔧 Skills & Expertise
 - **Languages**: Java, Python, Go
