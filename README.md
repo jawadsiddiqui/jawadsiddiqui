@@ -2,19 +2,21 @@
 
 ### 🚀 Helping Fortune 500 Companies Achieve Scalable Tech Solutions
 
-With 15+ years of experience in backend development, data engineering, and cloud-native systems, I specialize in building scalable solutions using **Go**, **Python**, and **Java** for companies like Rakuten, Williams-Sonoma, and GAP Inc.
+With 15+ years of experience in backend development, data engineering, and cloud-native systems, I specialize in building scalable solutions using **Java**, **Python**, and **Go** for companies like Rakuten, Williams-Sonoma, and GAP Inc.
 
 ## 🔧 Skills & Expertise
-- **Languages**: Go, Python, Java
+- **Languages**: Java, Python, Go
 - **Frameworks**: Spring Boot, Flask, FastAPI
 - **Cloud & DevOps**: AWS, Google Cloud, Docker, Kubernetes, Terraform
 - **Data**: Apache Kafka, Redis, Cassandra, PostgreSQL
 - **Testing**: JUnit, PyTest, Cucumber
+- **Exposure**: C#/.NET in past projects
 
 ## 🏆 Key Achievements
-- **Data Pipelines**: Built scalable pipelines for Fortune 500 companies, improving data processing efficiency.
-- **System Performance**: Optimized microservices using **Go**, boosting system performance by 30%.
-- **Architecture Leadership**: Led teams to deliver high-impact, cloud-native applications, adhering to agile practices.
+- **Scalable Java Solutions**: Led backend development using **Java**, delivering enterprise-level solutions with improved reliability and scalability.
+- **Data Pipelines**: Built scalable pipelines using **Python** for Fortune 500 companies, optimizing data processing efficiency.
+- **Go Microservices**: Optimized microservices using **Go**, boosting system performance by 30%.
+- **Architecture Leadership**: Led teams to deliver high-impact, cloud-native applications with agile methodologies.
 
 ## 📫 Let’s Connect
 - LinkedIn: [linkedin.com/in/jawwad123](https://linkedin.com/in/jawwad123)
