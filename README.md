@@ -18,6 +18,7 @@ With 15+ years of experience in backend development, data engineering, and cloud
 - **Go Microservices**: Optimized microservices using **Go**, boosting system performance by 30%.
 - **Architecture Leadership**: Led teams to deliver high-impact, cloud-native applications with agile methodologies.
 
-## 📫 Let’s Connect
-- LinkedIn: [linkedin.com/in/jawwad123](https://linkedin.com/in/jawwad123)
-- Email: asher.0484@gmail.com
+## 📫 **Connect with me**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jsiddiqui123)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/jawadsiddiqui)  
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:asher.0484@gmail.com)
