@@ -5,7 +5,7 @@
 With 15+ years of experience in backend development, data engineering, and cloud-native systems, I specialize in building scalable solutions using **Java**, **Python**, and **Go** for companies like Macy's, Williams-Sonoma, and GAP Inc.
 
 ## 🔧 Skills & Expertise
-- **Languages**: Java, Python, Go
+- **Languages:** ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) Java, ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white) Python, ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
 - **Frameworks**: Spring Boot, Flask, FastAPI
 - **Cloud & DevOps**: AWS, Google Cloud, Docker, Kubernetes, Terraform
 - **Data**: Apache Kafka, Redis, Cassandra, PostgreSQL
@@ -21,6 +21,3 @@ With 15+ years of experience in backend development, data engineering, and cloud
 ## 📫 Let’s Connect
 - LinkedIn: [linkedin.com/in/jawwad123](https://linkedin.com/in/jawwad123)
 - Email: asher.0484@gmail.com
-
-📊 **GitHub Stats**:
-![Jawwad's GitHub stats](https://github-readme-stats.vercel.app/api?username=jawadsiddiqui&show_icons=true&theme=radical)
