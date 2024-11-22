@@ -21,3 +21,6 @@ With 15+ years of experience in backend development, data engineering, and cloud
 ## 📫 Let’s Connect
 - LinkedIn: [linkedin.com/in/jawwad123](https://linkedin.com/in/jawwad123)
 - Email: asher.0484@gmail.com
+
+📊 **GitHub Stats**:
+![Jawwad's GitHub stats](https://github-readme-stats.vercel.app/api?username=jawadsiddiqui&show_icons=true&theme=radical)
