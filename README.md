@@ -10,7 +10,7 @@ With 15+ years of experience in backend development, data engineering, and cloud
 - **Cloud & DevOps**: AWS, Google Cloud, Docker, Kubernetes, Terraform
 - **Data**: Apache Kafka, Redis, Cassandra, PostgreSQL
 - **Testing**: JUnit, PyTest, Cucumber
-- **Exposure**: C#/.NET in past projects
+- **Exposure**: E-Commerce, Platforms, Content Management
 
 ## 🏆 Key Achievements
 - **Scalable Java Solutions**: Led backend development using **Java**, delivering enterprise-level solutions with improved reliability and scalability.
