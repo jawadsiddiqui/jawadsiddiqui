@@ -7,6 +7,7 @@ With 15+ years of experience in backend development, data engineering, and cloud
 ## 🔧 Skills & Expertise
 - **Languages:** ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) Java, ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white) Python, ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) Go
 - **Frameworks**: Spring Boot, Flask, FastAPI
+- **Agentic AI** CREWAI (Agentic AI Framework)
 - **Cloud & DevOps**: AWS, Google Cloud, Docker, Kubernetes, Terraform
 - **Data**: Apache Kafka, Redis, Cassandra, PostgreSQL
 - **Testing**: JUnit, PyTest, Cucumber
