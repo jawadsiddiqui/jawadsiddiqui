@@ -14,6 +14,7 @@ With 15+ years of experience in backend development, data engineering, and cloud
 - **Exposure**: E-Commerce, Platforms, Content Management
 
 ## 🏆 Key Achievements
+- ** Writing AI Agent (CrewAI, Artificial Intelligence Information System, Automate Business Processes with AI Agents, Pipelines) 
 - **Scalable Java Solutions**: Led backend development using **Java**, delivering enterprise-level solutions with improved reliability and scalability.
 - **Data Pipelines**: Built scalable pipelines using **Python** for Fortune 500 companies, optimizing data processing efficiency.
 - **Go Microservices**: Optimized microservices using **Go**, boosting system performance by 30%.
