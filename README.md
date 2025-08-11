@@ -2,7 +2,7 @@
 
 ### 🚀 Helping Fortune 500 Companies Achieve Scalable Tech Solutions
 
-With 15+ years of experience in backend development, data engineering, and cloud-native systems, I specialize in building scalable solutions using **Java**, **Python**, and **Go** for companies like Macy's, Williams-Sonoma, and GAP Inc.
+With 15+ years of experience in backend development, data engineering, and cloud-native systems, I specialize in building scalable solutions using **Java**, **Python**, and **Go** for companies like **Macy's, Williams-Sonoma, and GAP Inc.**
 
 ## 🔧 Skills & Expertise
 - **Languages:** ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) Java, ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white) Python, ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) Go
