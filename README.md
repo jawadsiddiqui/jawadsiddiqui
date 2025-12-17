@@ -5,20 +5,14 @@
 With 15+ years of experience in backend development, data engineering, and cloud-native systems, I specialize in building scalable solutions using **Java**, **Python**, and **Go** for companies like **Macy's, Williams-Sonoma, and GAP Inc.**
 
 ## 🔧 Skills & Expertise
-- **Languages:** ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) Java, ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white) Python, ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) Go
-- **Frameworks**: Spring Boot, Flask, FastAPI
-- **Agentic AI**: CREWAI (Agentic AI Framework)
-- **Cloud & DevOps**: AWS, Google Cloud, Docker, Kubernetes
-- **Data**: Apache Kafka, Redis, Cassandra, PostgreSQL
-- **Testing**: JUnit, PyTest, Cucumber
-- **Exposure**: E-Commerce, Platforms, Content Management
+- Programming Languages: Java, Python, JavaScript, TypeScript, SQL
+- Frameworks: Spring Boot, Hibernate, Angular, React.js
+- Cloud & DevOps: AWS (EC2, S3, Lambda), Microsoft Azure, Docker, Kubernetes, Jenkins, GitHub Actions
+- Tools & Technologies: Apache Kafka, Elasticsearch, Redis, Grafana, AppDynamics, Git
+- AI & Automation: GitHub Copilot, Claude Sonnet, GPT-4, AI-Assisted Development, Agentic AI, Personal Work-
+flow Automation
+- Leadership & Management: Technical Roadmap, Stakeholder Management, Team Mentoring
 
-## 🏆 Key Achievements
-- ** Writing AI Agent (CrewAI, Artificial Intelligence Information System, Automate Business Processes with AI Agents, Pipelines) 
-- **Scalable Java Solutions**: Led backend development using **Java**, delivering enterprise-level solutions with improved reliability and scalability.
-- **Data Pipelines**: Built scalable pipelines using **Python** for Fortune 500 companies, optimizing data processing efficiency.
-- **Go Microservices**: Optimized microservices using **Go**, boosting system performance by 30%.
-- **Architecture Leadership**: Led teams to deliver high-impact, cloud-native applications with agile methodologies.
 
 ## 📫 **Connect with me**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jsiddiqui123)  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/jawadsiddiqui)  [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:jawad@live.com.pk)
